@@ -1,0 +1,12 @@
+package com.example.project1.form;
+
+import jakarta.validation.constraints.NotBlank;
+import lombok.Data;
+
+@Data
+public class LoginUserForm {
+    @NotBlank
+    private String username;
+    @NotBlank
+    private String password;
+}

@@ -1,0 +1,126 @@
+Date : 2023-04-01 14:23:48
+Directory : c:\Users\CHENH\codelearning\spring\project1\src
+Total : 74 files,  8951 codes, 3491 comments, 1993 blanks, all 14435 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         65 |      6,647 |      2,933 |      1,958 |     11,538 |
+| XML      |          8 |      2,291 |        558 |         34 |      2,883 |
+| YAML     |          1 |         13 |          0 |          1 |         14 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                 | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                    |         74 |      8,951 |      3,491 |      1,993 |     14,435 |
+| main                                                                                                                 |         69 |      8,805 |      3,491 |      1,945 |     14,241 |
+| main\java                                                                                                            |         60 |      6,501 |      2,933 |      1,910 |     11,344 |
+| main\java\com                                                                                                        |         60 |      6,501 |      2,933 |      1,910 |     11,344 |
+| main\java\com\example                                                                                                |         60 |      6,501 |      2,933 |      1,910 |     11,344 |
+| main\java\com\example\project1                                                                                       |         60 |      6,501 |      2,933 |      1,910 |     11,344 |
+| main\java\com\example\project1 (Files)                                                                               |          1 |         11 |          0 |          5 |         16 |
+| main\java\com\example\project1\consts                                                                                |          1 |          4 |          3 |          4 |         11 |
+| main\java\com\example\project1\controller                                                                            |          5 |        281 |          8 |         82 |        371 |
+| main\java\com\example\project1\dao                                                                                   |          7 |        153 |        480 |        112 |        745 |
+| main\java\com\example\project1\enums                                                                                 |          5 |         65 |          0 |         30 |         95 |
+| main\java\com\example\project1\form                                                                                  |          3 |         44 |          0 |          9 |         53 |
+| main\java\com\example\project1\interceptor                                                                           |          2 |         27 |         10 |          9 |         46 |
+| main\java\com\example\project1\pojo                                                                                  |         15 |      5,201 |      2,393 |      1,433 |      9,027 |
+| main\java\com\example\project1\service                                                                               |         21 |        715 |         39 |        226 |        980 |
+| main\java\com\example\project1\service (Files)                                                                       |          6 |         51 |          8 |         36 |         95 |
+| main\java\com\example\project1\service\impl                                                                          |          6 |        512 |         31 |        150 |        693 |
+| main\java\com\example\project1\service\vo                                                                            |          9 |        152 |          0 |         40 |        192 |
+| main\resources                                                                                                       |          9 |      2,304 |        558 |         35 |      2,897 |
+| main\resources (Files)                                                                                               |          2 |         40 |          8 |         11 |         59 |
+| main\resources\mapper                                                                                                |          7 |      2,264 |        550 |         24 |      2,838 |
+| test                                                                                                                 |          5 |        146 |          0 |         48 |        194 |
+| test\java                                                                                                            |          5 |        146 |          0 |         48 |        194 |
+| test\java\com                                                                                                        |          5 |        146 |          0 |         48 |        194 |
+| test\java\com\example                                                                                                |          5 |        146 |          0 |         48 |        194 |
+| test\java\com\example\project1                                                                                       |          5 |        146 |          0 |         48 |        194 |
+| test\java\com\example\project1\service                                                                               |          5 |        146 |          0 |         48 |        194 |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                             | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\Project1Application.java              | Java     |         11 |          0 |          5 |         16 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\consts\MallConsts.java                | Java     |          4 |          3 |          4 |         11 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\controller\CartController.java        | Java     |        116 |          3 |         30 |        149 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\controller\CategoryController.java    | Java     |         16 |          0 |          6 |         22 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\controller\ProductController.java     | Java     |         23 |          0 |          9 |         32 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\controller\ShippingController.java    | Java     |         74 |          0 |         21 |         95 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\controller\UserController.java        | Java     |         52 |          5 |         16 |         73 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\dao\MallCartMapper.java               | Java     |         22 |         66 |         16 |        104 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\dao\MallCategoryMapper.java           | Java     |         19 |         66 |         14 |         99 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\dao\MallOrderItemMapper.java          | Java     |         22 |         66 |         16 |        104 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\dao\MallOrderMapper.java              | Java     |         20 |         66 |         15 |        101 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\dao\MallProductMapper.java            | Java     |         26 |         84 |         19 |        129 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\dao\MallShippingMapper.java           | Java     |         23 |         66 |         17 |        106 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\dao\MallUserMapper.java               | Java     |         21 |         66 |         15 |        102 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\enums\OrderStatusEnum.java            | Java     |         18 |          0 |         12 |         30 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\enums\PaymentTypeEnum.java            | Java     |          4 |          0 |          4 |          8 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\enums\ProductStatusEnum.java          | Java     |          8 |          0 |          3 |         11 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\enums\ResponceEnum.java               | Java     |         28 |          0 |          8 |         36 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\enums\RoleEnum.java                   | Java     |          7 |          0 |          3 |         10 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\form\LoginUserForm.java               | Java     |         10 |          0 |          3 |         13 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\form\RegisterUserForm.java            | Java     |         12 |          0 |          3 |         15 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\form\ShippingForm.java                | Java     |         22 |          0 |          3 |         25 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\interceptor\InterceptorConfig.java    | Java     |          8 |          7 |          3 |         18 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\interceptor\UserLoginInterceptor.java | Java     |         19 |          3 |          6 |         28 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallCart.java                    | Java     |         53 |        161 |         22 |        236 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallCartExample.java             | Java     |        491 |        102 |        129 |        722 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallCategory.java                | Java     |         53 |        161 |         22 |        236 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallCategoryExample.java         | Java     |        499 |        102 |        131 |        732 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallOrder.java                   | Java     |        103 |        322 |         43 |        468 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallOrderExample.java            | Java     |        828 |        102 |        213 |      1,143 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallOrderItem.java               | Java     |         82 |        253 |         34 |        369 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallOrderItemExample.java        | Java     |        700 |        102 |        181 |        983 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallProduct.java                 | Java     |         75 |        230 |         31 |        336 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallProductExample.java          | Java     |        660 |        102 |        171 |        933 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallProductWithBLOBs.java        | Java     |         17 |         46 |          6 |         69 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallShipping.java                | Java     |         88 |        276 |         37 |        401 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallShippingExample.java         | Java     |        795 |        102 |        205 |      1,102 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallUser.java                    | Java     |         74 |        230 |         31 |        335 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\pojo\MallUserExample.java             | Java     |        683 |        102 |        177 |        962 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\ICartService.java             | Java     |         12 |          0 |         10 |         22 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\ICategoryService.java         | Java     |          7 |          0 |          6 |         13 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\IOrderService.java            | Java     |          9 |          0 |          3 |         12 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\IProductService.java          | Java     |          7 |          0 |          5 |         12 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\IShippingService.java         | Java     |          9 |          0 |          6 |         15 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\IUserService.java             | Java     |          7 |          8 |          6 |         21 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\impl\CartServiceImpl.java     | Java     |         51 |          0 |         18 |         69 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\impl\CategoryServiceImpl.java | Java     |         58 |          6 |         17 |         81 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\impl\OrderServiceImpl.java    | Java     |        235 |         13 |         58 |        306 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\impl\ProductServiceImpl.java  | Java     |         61 |          3 |         22 |         86 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\impl\ShippingServiceImpl.java | Java     |         62 |          0 |         22 |         84 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\impl\UserServiceImpl.java     | Java     |         45 |          9 |         13 |         67 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\vo\CartVO.java                | Java     |         12 |          0 |          3 |         15 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\vo\CategoryVO.java            | Java     |         12 |          0 |          4 |         16 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\vo\OrderItemVO.java           | Java     |         15 |          0 |          4 |         19 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\vo\OrderVO.java               | Java     |         23 |          0 |          6 |         29 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\vo\ProductDetailVO.java       | Java     |         15 |          0 |          4 |         19 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\vo\ProductVO.java             | Java     |         13 |          0 |          2 |         15 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\vo\ResponceVO.java            | Java     |         40 |          0 |         11 |         51 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\vo\cartProductVO.java         | Java     |         16 |          0 |          3 |         19 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\java\com\example\project1\service\vo\shippingVO.java            | Java     |          6 |          0 |          3 |          9 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\resources\application.yaml                                      | YAML     |         13 |          0 |          1 |         14 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\resources\generatorConfig.xml                                   | XML      |         27 |          8 |         10 |         45 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\resources\mapper\MallCartMapper.xml                             | XML      |        264 |         75 |          5 |        344 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\resources\mapper\MallCategoryMapper.xml                         | XML      |        249 |         75 |          2 |        326 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\resources\mapper\MallOrderItemMapper.xml                        | XML      |        340 |         75 |          5 |        420 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\resources\mapper\MallOrderMapper.xml                            | XML      |        365 |         75 |          2 |        442 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\resources\mapper\MallProductMapper.xml                          | XML      |        386 |        100 |          2 |        488 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\resources\mapper\MallShippingMapper.xml                         | XML      |        352 |         75 |          5 |        432 |
+| c:\Users\CHENH\codelearning\spring\project1\src\main\resources\mapper\MallUserMapper.xml                             | XML      |        308 |         75 |          3 |        386 |
+| c:\Users\CHENH\codelearning\spring\project1\src\test\java\com\example\project1\service\CartServiceTest.java          | Java     |         17 |          0 |          7 |         24 |
+| c:\Users\CHENH\codelearning\spring\project1\src\test\java\com\example\project1\service\OrderServiceTest.java         | Java     |         27 |          0 |          9 |         36 |
+| c:\Users\CHENH\codelearning\spring\project1\src\test\java\com\example\project1\service\ProductServiceTest.java       | Java     |         30 |          0 |         13 |         43 |
+| c:\Users\CHENH\codelearning\spring\project1\src\test\java\com\example\project1\service\ShippingServiceTest.java      | Java     |         50 |          0 |         14 |         64 |
+| c:\Users\CHENH\codelearning\spring\project1\src\test\java\com\example\project1\service\UserServiceImpl.java          | Java     |         22 |          0 |          5 |         27 |
+| Total                                                                                                                |          |      8,951 |      3,491 |      1,993 |     14,435 |
++----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
